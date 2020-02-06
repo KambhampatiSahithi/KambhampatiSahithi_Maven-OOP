@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f725fe97-44b1-4989-abd2-8cc5a62ebb04" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XMyAN4rZduWfqOS6FCf3Q6Zxs6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.NewYear_Gift">
+    <configuration name="NewYear_Gift" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewYear_Gift" />
+      <module name="NewYear" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewYear-1.0-SNAPSHOT.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/NewYear-1.0-SNAPSHOT.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NewYear_Gift" />
+        <item itemvalue="JAR Application.NewYear-1.0-SNAPSHOT.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f725fe97-44b1-4989-abd2-8cc5a62ebb04" name="Default Changelist" comment="" />
+      <created>1580870114422</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580870114422</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="734" y="156" width="1000" height="839" key="#Project_Structure" timestamp="1580870251493">
+      <screen x="69" y="34" width="1851" height="1046" />
+    </state>
+    <state x="734" y="156" width="1000" height="839" key="#Project_Structure/69.34.1851.1046@69.34.1851.1046" timestamp="1580870251493" />
+    <state width="1795" height="263" key="GridCell.Tab.0.bottom" timestamp="1580960528336">
+      <screen x="69" y="34" width="1851" height="1046" />
+    </state>
+    <state width="1795" height="263" key="GridCell.Tab.0.bottom/69.34.1851.1046@69.34.1851.1046" timestamp="1580960528336" />
+    <state width="1795" height="263" key="GridCell.Tab.0.center" timestamp="1580960528335">
+      <screen x="69" y="34" width="1851" height="1046" />
+    </state>
+    <state width="1795" height="263" key="GridCell.Tab.0.center/69.34.1851.1046@69.34.1851.1046" timestamp="1580960528335" />
+    <state width="1795" height="263" key="GridCell.Tab.0.left" timestamp="1580960528334">
+      <screen x="69" y="34" width="1851" height="1046" />
+    </state>
+    <state width="1795" height="263" key="GridCell.Tab.0.left/69.34.1851.1046@69.34.1851.1046" timestamp="1580960528334" />
+    <state width="1795" height="263" key="GridCell.Tab.0.right" timestamp="1580960528335">
+      <screen x="69" y="34" width="1851" height="1046" />
+    </state>
+    <state width="1795" height="263" key="GridCell.Tab.0.right/69.34.1851.1046@69.34.1851.1046" timestamp="1580960528335" />
+    <state x="574" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1580960179805">
+      <screen x="69" y="34" width="1851" height="1046" />
+    </state>
+    <state x="574" y="346" key="com.intellij.ide.util.TipDialog/69.34.1851.1046@69.34.1851.1046" timestamp="1580960179805" />
+  </component>
+</project>
